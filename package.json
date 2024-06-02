@@ -1,0 +1,26 @@
+{
+  "name": "demo-cs-currency-converter",
+  "version": "1.0.0",
+  "description": "npm package to convert currency ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ooye-sanket/demo-cs-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "ooye.labs",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ooye-sanket/demo-cs-currency-converter/issues"
+  },
+  "homepage": "https://github.com/ooye-sanket/demo-cs-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
